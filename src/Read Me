@@ -1,0 +1,7 @@
+In this project we will create a simple banking app.
+There are 2 abstract classes Customer and Account.
+Customer class is extended by Personal and Business classes,
+Account class is extended by Saving, Checking and Credit classes.
+There are two other classes, Bank and MainClass.
+
+You can find detailed instructions in each class about that particular class.
